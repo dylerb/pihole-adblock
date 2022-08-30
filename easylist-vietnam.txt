@@ -314,3 +314,5 @@
 0.0.0.0 spell.itim.vn
 
 0.0.0.0 www.v9bet88.net
+0.0.0.0 ad.choiwin79.com
+0.0.0.0 qph.cf2.quoracdn.net
